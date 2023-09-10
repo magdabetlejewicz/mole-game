@@ -3,7 +3,7 @@
 }
 
 body {
-  cursor: url(./cursor.png), default;
+  cursor: url(./assets/cursor.png), default;
   background-color: #c0c86d;
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-  background-image: url(./background.png);
+  background-image: url(./assets/background.png);
   background-repeat: no-repeat;
   width: 1920px;
   height: 1080px;
@@ -46,7 +46,7 @@ body {
 }
 
 .hungry {
-  cursor: url(./cursor-worm.png), default;
+  cursor: url(./assets/cursor-worm.png), default;
 }
 
 .gone {
